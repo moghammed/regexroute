@@ -14,5 +14,15 @@
     "path"
   ],
   "author": "mo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prelude-ls": "^1.1.1"
+  },
+  "devDependencies": {
+    "yargs": "^1.2.2",
+    "gulp-livescript": "^0.3.0",
+    "gulp-uglify": "^0.3.0",
+    "gulp": "^3.7.0",
+    "livescript-gulp": "0.0.3"
+  }
 }
